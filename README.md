@@ -1,4 +1,6 @@
 Website link: https://rubixio.netlify.app
+              https://rubixio.vercel.app
+
 
 Copyright (c) 2026 aquatticrose
 
